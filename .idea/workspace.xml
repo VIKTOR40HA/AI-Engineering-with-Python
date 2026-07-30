@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98b4b989-2094-4ee3-bd88-41187eee8eb5" name="Changes" comment="Exercise done!">
+    <list default="true" id="98b4b989-2094-4ee3-bd88-41187eee8eb5" name="Changes" comment="Lab done!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +45,11 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.character_sequence.executor": "Run",
+    "Python.clever_lily.executor": "Debug",
     "Python.even_powers_of_2.executor": "Run",
     "Python.fishing_boat.executor": "Run",
+    "Python.half_sum_element.executor": "Run",
+    "Python.histogram.executor": "Run",
     "Python.hotel_room.executor": "Run",
     "Python.journey.executor": "Run",
     "Python.left_and_right_sum.executor": "Run",
@@ -54,10 +57,14 @@
     "Python.numbers_n...1.executor": "Run",
     "Python.on_time_for_the_exam.executor": "Run",
     "Python.operations_between_numbers.executor": "Run",
+    "Python.oscars.executor": "Debug",
+    "Python.salary.executor": "Run",
     "Python.sum_seconds.executor": "Run",
+    "Python.tennis_ranklist.executor": "Debug",
     "Python.time_+_15_minutes.executor": "Run",
     "Python.toy_shop.executor": "Run",
     "Python.trade_commissions.executor": "Run",
+    "Python.trekking_mania.executor": "Run",
     "Python.weekend_or_working_day.executor": "Run",
     "Python.working_hours.executor": "Run",
     "Python.world_swimming_record.executor": "Run",
@@ -90,7 +97,8 @@
       <workItem from="1784541210337" duration="1813000" />
       <workItem from="1784561291833" duration="5969000" />
       <workItem from="1784822823078" duration="7213000" />
-      <workItem from="1785310900170" duration="3883000" />
+      <workItem from="1785310900170" duration="4585000" />
+      <workItem from="1785426320433" duration="6210000" />
     </task>
     <task id="LOCAL-00001" summary="Done">
       <option name="closed" value="true" />
@@ -124,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784830051285</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lab done!">
+      <option name="closed" value="true" />
+      <created>1785315734531</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1785315734531</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +150,8 @@
     <MESSAGE value="Done" />
     <MESSAGE value="Lab done" />
     <MESSAGE value="Exercise done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise done!" />
+    <MESSAGE value="Lab done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab done!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -154,17 +171,41 @@
           <line>5</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Basics/Exercises/for_loop_exercise/clever_lily.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Basics/Exercises/for_loop_exercise/oscars.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Basics/Exercises/for_loop_exercise/tennis_ranklist.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$trekking_mania.coverage" NAME="trekking_mania Coverage Results" MODIFIED="1785437365627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/for_loop_exercise" />
+    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$journey.coverage" NAME="journey Coverage Results" MODIFIED="1784826474766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/conditional_statements_advanced_exercise" />
+    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$histogram.coverage" NAME="histogram Coverage Results" MODIFIED="1785427617318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/for_loop_exercise" />
+    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$working_hours.coverage" NAME="working_hours Coverage Results" MODIFIED="1784564834506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Labs/conditional_statements_advanced" />
+    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$numbers_n___1.coverage" NAME="numbers_n...1 Coverage Results" MODIFIED="1785312677992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Labs/for_loop" />
+    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$operations_between_numbers.coverage" NAME="operations_between_numbers Coverage Results" MODIFIED="1784827180880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/conditional_statements_advanced_exercise" />
+    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$oscars.coverage" NAME="oscars Coverage Results" MODIFIED="1785430968997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/for_loop_exercise" />
+    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$on_time_for_the_exam.coverage" NAME="on_time_for_the_exam Coverage Results" MODIFIED="1784829686452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/conditional_statements_advanced_exercise" />
+    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$world_swimming_record.coverage" NAME="world_swimming_record Coverage Results" MODIFIED="1784225023306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/statements_exercise" />
     <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$sum_seconds.coverage" NAME="sum_seconds Coverage Results" MODIFIED="1784219775602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/statements_exercise" />
     <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$fishing_boat.coverage" NAME="fishing_boat Coverage Results" MODIFIED="1784825629999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/conditional_statements_advanced_exercise" />
-    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$journey.coverage" NAME="journey Coverage Results" MODIFIED="1784826474766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/conditional_statements_advanced_exercise" />
+    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$clever_lily.coverage" NAME="clever_lily Coverage Results" MODIFIED="1785428583356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/for_loop_exercise" />
+    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$tennis_ranklist.coverage" NAME="tennis_ranklist Coverage Results" MODIFIED="1785438125087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/for_loop_exercise" />
+    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$salary.coverage" NAME="salary Coverage Results" MODIFIED="1785429239300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/for_loop_exercise" />
     <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$left_and_right_sum.coverage" NAME="left_and_right_sum Coverage Results" MODIFIED="1785315285431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Labs/for_loop" />
-    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$working_hours.coverage" NAME="working_hours Coverage Results" MODIFIED="1784564834506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Labs/conditional_statements_advanced" />
-    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$operations_between_numbers.coverage" NAME="operations_between_numbers Coverage Results" MODIFIED="1784827180880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/conditional_statements_advanced_exercise" />
-    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$numbers_n___1.coverage" NAME="numbers_n...1 Coverage Results" MODIFIED="1785312677992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Labs/for_loop" />
+    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$half_sum_element.coverage" NAME="half_sum_element Coverage Results" MODIFIED="1785426903473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/for_loop_exercise" />
     <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$even_powers_of_2.coverage" NAME="even_powers_of_2 Coverage Results" MODIFIED="1785313024830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Labs/for_loop" />
     <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$weekend_or_working_day.coverage" NAME="weekend_or_working_day Coverage Results" MODIFIED="1784562743080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Labs/conditional_statements_advanced" />
     <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$number_sequence.coverage" NAME="number_sequence Coverage Results" MODIFIED="1785314018444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Labs/for_loop" />
@@ -172,8 +213,6 @@
     <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$character_sequence.coverage" NAME="character_sequence Coverage Results" MODIFIED="1785313448781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Labs/for_loop" />
     <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$hotel_room.coverage" NAME="hotel_room Coverage Results" MODIFIED="1784829144545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/conditional_statements_advanced_exercise" />
     <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$trade_commissions.coverage" NAME="trade_commissions Coverage Results" MODIFIED="1784567045712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Labs/conditional_statements_advanced" />
-    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$on_time_for_the_exam.coverage" NAME="on_time_for_the_exam Coverage Results" MODIFIED="1784829686452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/conditional_statements_advanced_exercise" />
-    <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$world_swimming_record.coverage" NAME="world_swimming_record Coverage Results" MODIFIED="1784225023306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/statements_exercise" />
     <SUITE FILE_PATH="coverage/AI_Engineering_with_Python$time___15_minutes.coverage" NAME="time_+_15_minutes Coverage Results" MODIFIED="1784222530124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Basics/Exercises/statements_exercise" />
   </component>
 </project>
