@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98b4b989-2094-4ee3-bd88-41187eee8eb5" name="Changes" comment="Lab done!">
+    <list default="true" id="98b4b989-2094-4ee3-bd88-41187eee8eb5" name="Changes" comment="Exercise done!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,21 +44,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.account_balance.executor": "Run",
     "Python.character_sequence.executor": "Run",
     "Python.clever_lily.executor": "Debug",
     "Python.even_powers_of_2.executor": "Run",
     "Python.fishing_boat.executor": "Run",
+    "Python.graduation.executor": "Run",
     "Python.half_sum_element.executor": "Run",
     "Python.histogram.executor": "Run",
     "Python.hotel_room.executor": "Run",
     "Python.journey.executor": "Run",
     "Python.left_and_right_sum.executor": "Run",
+    "Python.num_numbers.executor": "Run",
     "Python.number_sequence.executor": "Run",
     "Python.numbers_n...1.executor": "Run",
     "Python.on_time_for_the_exam.executor": "Run",
     "Python.operations_between_numbers.executor": "Run",
     "Python.oscars.executor": "Debug",
     "Python.salary.executor": "Run",
+    "Python.sequence_2k+1.executor": "Run",
     "Python.sum_seconds.executor": "Run",
     "Python.tennis_ranklist.executor": "Debug",
     "Python.time_+_15_minutes.executor": "Run",
@@ -81,7 +85,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
         <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
       </set>
     </attachedChunks>
@@ -98,7 +101,10 @@
       <workItem from="1784561291833" duration="5969000" />
       <workItem from="1784822823078" duration="7213000" />
       <workItem from="1785310900170" duration="4585000" />
-      <workItem from="1785426320433" duration="6210000" />
+      <workItem from="1785426320433" duration="6315000" />
+      <workItem from="1785918947415" duration="20000" />
+      <workItem from="1785920510753" duration="17000" />
+      <workItem from="1785920548301" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="Done">
       <option name="closed" value="true" />
@@ -140,7 +146,23 @@
       <option name="project" value="LOCAL" />
       <updated>1785315734531</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exercise done!">
+      <option name="closed" value="true" />
+      <created>1785438408255</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1785438408255</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Exercise done!">
+      <option name="closed" value="true" />
+      <created>1785438426863</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1785438426863</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,9 +171,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Done" />
     <MESSAGE value="Lab done" />
-    <MESSAGE value="Exercise done!" />
     <MESSAGE value="Lab done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab done!" />
+    <MESSAGE value="Exercise done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise done!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -180,11 +202,6 @@
           <url>file://$PROJECT_DIR$/Python Basics/Exercises/for_loop_exercise/oscars.py</url>
           <line>6</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python Basics/Exercises/for_loop_exercise/tennis_ranklist.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
