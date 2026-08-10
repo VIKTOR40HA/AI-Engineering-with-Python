@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98b4b989-2094-4ee3-bd88-41187eee8eb5" name="Changes" comment="Exercise done!">
+    <list default="true" id="98b4b989-2094-4ee3-bd88-41187eee8eb5" name="Changes" comment="Lab Done!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
     "Python.account_balance.executor": "Run",
     "Python.character_sequence.executor": "Run",
     "Python.clever_lily.executor": "Debug",
+    "Python.coins.executor": "Run",
     "Python.even_powers_of_2.executor": "Run",
     "Python.fishing_boat.executor": "Run",
     "Python.graduation.executor": "Run",
@@ -69,6 +70,8 @@
     "Python.toy_shop.executor": "Run",
     "Python.trade_commissions.executor": "Run",
     "Python.trekking_mania.executor": "Run",
+    "Python.vacation.executor": "Run",
+    "Python.walking.executor": "Run",
     "Python.weekend_or_working_day.executor": "Run",
     "Python.working_hours.executor": "Run",
     "Python.world_swimming_record.executor": "Run",
@@ -162,7 +165,23 @@
       <option name="project" value="LOCAL" />
       <updated>1785438426863</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Exercise done!">
+      <option name="closed" value="true" />
+      <created>1785923768708</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1785923768708</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Lab Done!">
+      <option name="closed" value="true" />
+      <created>1785923784896</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1785923784896</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +192,8 @@
     <MESSAGE value="Lab done" />
     <MESSAGE value="Lab done!" />
     <MESSAGE value="Exercise done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise done!" />
+    <MESSAGE value="Lab Done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab Done!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
