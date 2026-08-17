@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98b4b989-2094-4ee3-bd88-41187eee8eb5" name="Changes" comment="">
+    <list default="true" id="98b4b989-2094-4ee3-bd88-41187eee8eb5" name="Changes" comment="Lab done!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
     "Python.clever_lily.executor": "Debug",
     "Python.coins.executor": "Run",
     "Python.combinations.executor": "Run",
+    "Python.equal_sums_even_odd_position.executor": "Run",
     "Python.even_powers_of_2.executor": "Run",
     "Python.fishing_boat.executor": "Run",
     "Python.graduation.executor": "Run",
@@ -58,6 +59,7 @@
     "Python.journey.executor": "Run",
     "Python.left_and_right_sum.executor": "Run",
     "Python.num_numbers.executor": "Run",
+    "Python.number_pyramid.executor": "Run",
     "Python.number_sequence.executor": "Run",
     "Python.numbers_n...1.executor": "Run",
     "Python.on_time_for_the_exam.executor": "Run",
@@ -65,11 +67,13 @@
     "Python.oscars.executor": "Debug",
     "Python.salary.executor": "Run",
     "Python.sequence_2k+1.executor": "Run",
+    "Python.special_numbers.executor": "Run",
     "Python.sum_seconds.executor": "Run",
     "Python.tennis_ranklist.executor": "Debug",
     "Python.time_+_15_minutes.executor": "Run",
     "Python.toy_shop.executor": "Run",
     "Python.trade_commissions.executor": "Run",
+    "Python.train_the_trainers.executor": "Run",
     "Python.trekking_mania.executor": "Run",
     "Python.vacation.executor": "Run",
     "Python.walking.executor": "Run",
@@ -190,7 +194,23 @@
       <option name="project" value="LOCAL" />
       <updated>1786381048861</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Lab done!">
+      <option name="closed" value="true" />
+      <created>1786445218939</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1786445218939</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Lab done!">
+      <option name="closed" value="true" />
+      <created>1786445224573</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1786445224573</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,11 +219,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Done" />
     <MESSAGE value="Lab done" />
-    <MESSAGE value="Lab done!" />
     <MESSAGE value="Exercise done!" />
     <MESSAGE value="Lab Done!" />
     <MESSAGE value="\" />
-    <option name="LAST_COMMIT_MESSAGE" value="\" />
+    <MESSAGE value="Lab done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab done!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -232,6 +252,11 @@
           <url>file://$PROJECT_DIR$/Python Basics/Exercises/for_loop_exercise/oscars.py</url>
           <line>6</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Basics/Exercises/nested_loops_exercise/equal_sums_even_odd_position.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
