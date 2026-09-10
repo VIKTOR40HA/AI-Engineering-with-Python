@@ -68,6 +68,7 @@
     "Python.on_time_for_the_exam.executor": "Run",
     "Python.operations_between_numbers.executor": "Run",
     "Python.oscars.executor": "Debug",
+    "Python.patterns.executor": "Run",
     "Python.pc_store.executor": "Run",
     "Python.salary.executor": "Run",
     "Python.sequence_2k+1.executor": "Run",
@@ -83,6 +84,7 @@
     "Python.vacation.executor": "Run",
     "Python.walking.executor": "Run",
     "Python.weekend_or_working_day.executor": "Run",
+    "Python.word_reverse.executor": "Run",
     "Python.working_hours.executor": "Run",
     "Python.world_swimming_record.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -223,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786988968353</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Commit!">
+      <option name="closed" value="true" />
+      <created>1787053771315</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1787053771315</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +286,10 @@
           <url>file://$PROJECT_DIR$/Python Basics/Exams/pre_exam/unique_pin_codes.py</url>
           <line>4</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Fundamentals/Labs/basic_syntax,_conditional_statements,_and_loops/number_definer.py</url>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
