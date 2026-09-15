@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="98b4b989-2094-4ee3-bd88-41187eee8eb5" name="Changes" comment="Commit!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Fundamentals/Labs/basic_syntax,_conditional_statements,_and_loops/patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Fundamentals/Labs/basic_syntax,_conditional_statements,_and_loops/patterns.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.account_balance.executor": "Run",
+    "Python.char_to_string.executor": "Run",
     "Python.character_sequence.executor": "Run",
     "Python.clever_lily.executor": "Debug",
     "Python.coins.executor": "Run",
@@ -59,6 +61,7 @@
     "Python.half_sum_element.executor": "Run",
     "Python.histogram.executor": "Run",
     "Python.hotel_room.executor": "Run",
+    "Python.integer_operations.executor": "Run",
     "Python.journey.executor": "Run",
     "Python.left_and_right_sum.executor": "Run",
     "Python.num_numbers.executor": "Run",
@@ -67,12 +70,14 @@
     "Python.numbers_n...1.executor": "Run",
     "Python.on_time_for_the_exam.executor": "Run",
     "Python.operations_between_numbers.executor": "Run",
+    "Python.orders.executor": "Debug",
     "Python.oscars.executor": "Debug",
     "Python.patterns.executor": "Run",
     "Python.pc_store.executor": "Run",
     "Python.salary.executor": "Run",
     "Python.sequence_2k+1.executor": "Run",
     "Python.special_numbers.executor": "Run",
+    "Python.sum_of_chars.executor": "Run",
     "Python.sum_seconds.executor": "Run",
     "Python.tennis_ranklist.executor": "Debug",
     "Python.time_+_15_minutes.executor": "Run",
@@ -233,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787053771315</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commit!">
+      <option name="closed" value="true" />
+      <created>1789058791597</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1789058791597</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +303,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Python Fundamentals/Labs/basic_syntax,_conditional_statements,_and_loops/number_definer.py</url>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Fundamentals/Excersices/exercise_data_types_and_variables/orders.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
