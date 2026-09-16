@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="98b4b989-2094-4ee3-bd88-41187eee8eb5" name="Changes" comment="Commit!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Fundamentals/Labs/basic_syntax,_conditional_statements,_and_loops/patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Fundamentals/Labs/basic_syntax,_conditional_statements,_and_loops/patterns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Fundamentals/Excersices/exercise_data_types_and_variables/double_char.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Fundamentals/Excersices/exercise_data_types_and_variables/double_char.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +48,11 @@
     "Python.account_balance.executor": "Run",
     "Python.char_to_string.executor": "Run",
     "Python.character_sequence.executor": "Run",
+    "Python.christmas_spirit.executor": "Debug",
     "Python.clever_lily.executor": "Debug",
     "Python.coins.executor": "Run",
     "Python.combinations.executor": "Run",
+    "Python.double_char.executor": "Run",
     "Python.equal_sums_even_odd_position.executor": "Run",
     "Python.even_powers_of_2.executor": "Run",
     "Python.excursion_calculator.executor": "Run",
@@ -64,6 +66,7 @@
     "Python.integer_operations.executor": "Run",
     "Python.journey.executor": "Run",
     "Python.left_and_right_sum.executor": "Run",
+    "Python.mutate_strings.executor": "Run",
     "Python.num_numbers.executor": "Run",
     "Python.number_pyramid.executor": "Run",
     "Python.number_sequence.executor": "Run",
@@ -76,6 +79,7 @@
     "Python.pc_store.executor": "Run",
     "Python.salary.executor": "Run",
     "Python.sequence_2k+1.executor": "Run",
+    "Python.sorting_hat.executor": "Debug",
     "Python.special_numbers.executor": "Run",
     "Python.sum_of_chars.executor": "Run",
     "Python.sum_seconds.executor": "Run",
@@ -246,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789058791597</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Commit!">
+      <option name="closed" value="true" />
+      <created>1789482128180</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1789482128180</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,6 +320,16 @@
           <url>file://$PROJECT_DIR$/Python Fundamentals/Excersices/exercise_data_types_and_variables/orders.py</url>
           <line>3</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Fundamentals/Excersices/exercise_data_types_and_variables/sorting_hat.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Fundamentals/Excersices/exercise_data_types_and_variables/christmas_spirit.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
