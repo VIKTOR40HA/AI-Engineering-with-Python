@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="98b4b989-2094-4ee3-bd88-41187eee8eb5" name="Changes" comment="Commit!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Fundamentals/Excersices/exercise_data_types_and_variables/double_char.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Fundamentals/Excersices/exercise_data_types_and_variables/double_char.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,70 +41,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.account_balance.executor": "Run",
-    "Python.char_to_string.executor": "Run",
-    "Python.character_sequence.executor": "Run",
-    "Python.christmas_spirit.executor": "Debug",
-    "Python.clever_lily.executor": "Debug",
-    "Python.coins.executor": "Run",
-    "Python.combinations.executor": "Run",
-    "Python.double_char.executor": "Run",
-    "Python.equal_sums_even_odd_position.executor": "Run",
-    "Python.even_powers_of_2.executor": "Run",
-    "Python.excursion_calculator.executor": "Run",
-    "Python.excursion_sale.executor": "Run",
-    "Python.fishing_boat.executor": "Run",
-    "Python.graduation.executor": "Run",
-    "Python.grandpa_stavri.executor": "Run",
-    "Python.half_sum_element.executor": "Run",
-    "Python.histogram.executor": "Run",
-    "Python.hotel_room.executor": "Run",
-    "Python.integer_operations.executor": "Run",
-    "Python.journey.executor": "Run",
-    "Python.left_and_right_sum.executor": "Run",
-    "Python.mutate_strings.executor": "Run",
-    "Python.num_numbers.executor": "Run",
-    "Python.number_pyramid.executor": "Run",
-    "Python.number_sequence.executor": "Run",
-    "Python.numbers_n...1.executor": "Run",
-    "Python.on_time_for_the_exam.executor": "Run",
-    "Python.operations_between_numbers.executor": "Run",
-    "Python.orders.executor": "Debug",
-    "Python.oscars.executor": "Debug",
-    "Python.patterns.executor": "Run",
-    "Python.pc_store.executor": "Run",
-    "Python.salary.executor": "Run",
-    "Python.sequence_2k+1.executor": "Run",
-    "Python.sorting_hat.executor": "Debug",
-    "Python.special_numbers.executor": "Run",
-    "Python.sum_of_chars.executor": "Run",
-    "Python.sum_seconds.executor": "Run",
-    "Python.tennis_ranklist.executor": "Debug",
-    "Python.time_+_15_minutes.executor": "Run",
-    "Python.toy_shop.executor": "Run",
-    "Python.trade_commissions.executor": "Run",
-    "Python.train_the_trainers.executor": "Run",
-    "Python.trekking_mania.executor": "Run",
-    "Python.unique_pin_codes.executor": "Run",
-    "Python.vacation.executor": "Run",
-    "Python.walking.executor": "Run",
-    "Python.weekend_or_working_day.executor": "Run",
-    "Python.word_reverse.executor": "Run",
-    "Python.working_hours.executor": "Run",
-    "Python.world_swimming_record.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.account_balance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.char_to_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.character_sequence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.christmas_spirit.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.clever_lily.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.coins.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combinations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.double_char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.equal_sums_even_odd_position.executor&quot;: &quot;Run&quot;,
+    &quot;Python.even_powers_of_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.excursion_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.excursion_sale.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fishing_boat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.graduation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grandpa_stavri.executor&quot;: &quot;Run&quot;,
+    &quot;Python.half_sum_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.histogram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hotel_room.executor&quot;: &quot;Run&quot;,
+    &quot;Python.integer_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.journey.executor&quot;: &quot;Run&quot;,
+    &quot;Python.left_and_right_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mutate_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.num_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_pyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_sequence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numbers_n...1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.on_time_for_the_exam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operations_between_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.orders.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.oscars.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.patterns.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pc_store.executor&quot;: &quot;Run&quot;,
+    &quot;Python.salary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sequence_2k+1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorting_hat.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.special_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_of_chars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_seconds.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tennis_ranklist.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.time_+_15_minutes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.toy_shop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trade_commissions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train_the_trainers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trekking_mania.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unique_pin_codes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vacation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.walking.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weekend_or_working_day.executor&quot;: &quot;Run&quot;,
+    &quot;Python.word_reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.working_hours.executor&quot;: &quot;Run&quot;,
+    &quot;Python.world_swimming_record.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -258,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789482128180</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Commit!">
+      <option name="closed" value="true" />
+      <created>1789584888158</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1789584888158</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,7 +335,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Python Fundamentals/Excersices/exercise_data_types_and_variables/christmas_spirit.py</url>
-          <line>3</line>
+          <line>4</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
