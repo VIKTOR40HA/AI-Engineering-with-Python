@@ -44,6 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.absolute_values.executor": "Run",
     "Python.account_balance.executor": "Run",
     "Python.char_to_string.executor": "Run",
     "Python.character_sequence.executor": "Run",
@@ -59,6 +60,7 @@
     "Python.excursion_sale.executor": "Run",
     "Python.faro_shuffle.executor": "Run",
     "Python.fishing_boat.executor": "Run",
+    "Python.grades.executor": "Run",
     "Python.graduation.executor": "Run",
     "Python.grandpa_stavri.executor": "Run",
     "Python.half_sum_element.executor": "Run",
@@ -77,7 +79,7 @@
     "Python.numbers_n...1.executor": "Run",
     "Python.on_time_for_the_exam.executor": "Run",
     "Python.operations_between_numbers.executor": "Run",
-    "Python.orders.executor": "Debug",
+    "Python.orders.executor": "Run",
     "Python.oscars.executor": "Debug",
     "Python.party_profit.executor": "Debug",
     "Python.patterns.executor": "Run",
@@ -300,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790333162137</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Commit!">
+      <option name="closed" value="true" />
+      <created>1790778220367</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1790778220367</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,6 +407,11 @@
           <url>file://$PROJECT_DIR$/Python Fundamentals/Excersices/lists_basics/seize_the_fire.py</url>
           <line>5</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Fundamentals/Labs/functions/calculations.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
