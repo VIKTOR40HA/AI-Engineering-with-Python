@@ -48,6 +48,7 @@
     "Python.account_balance.executor": "Run",
     "Python.char_to_string.executor": "Run",
     "Python.character_sequence.executor": "Run",
+    "Python.characters_in_range.executor": "Run",
     "Python.christmas_spirit.executor": "Debug",
     "Python.clever_lily.executor": "Debug",
     "Python.coins.executor": "Run",
@@ -55,6 +56,7 @@
     "Python.double_char.executor": "Run",
     "Python.easter_gifts.executor": "Debug",
     "Python.equal_sums_even_odd_position.executor": "Run",
+    "Python.even_numbers.executor": "Run",
     "Python.even_powers_of_2.executor": "Run",
     "Python.excursion_calculator.executor": "Run",
     "Python.excursion_sale.executor": "Run",
@@ -70,6 +72,8 @@
     "Python.integer_operations.executor": "Run",
     "Python.journey.executor": "Run",
     "Python.left_and_right_sum.executor": "Run",
+    "Python.loading_bar.executor": "Run",
+    "Python.min_max_and_sum.executor": "Run",
     "Python.multiples_list.executor": "Run",
     "Python.mutate_strings.executor": "Run",
     "Python.next_happy_year.executor": "Debug",
@@ -77,17 +81,22 @@
     "Python.number_pyramid.executor": "Run",
     "Python.number_sequence.executor": "Run",
     "Python.numbers_n...1.executor": "Run",
+    "Python.odd_and_even_sum.executor": "Run",
     "Python.on_time_for_the_exam.executor": "Run",
     "Python.operations_between_numbers.executor": "Run",
     "Python.orders.executor": "Run",
     "Python.oscars.executor": "Debug",
+    "Python.palindrome_integers.executor": "Run",
     "Python.party_profit.executor": "Debug",
+    "Python.password_validator.executor": "Run",
     "Python.patterns.executor": "Run",
     "Python.pc_store.executor": "Run",
     "Python.print_part_of_the_ASCIIab_table.executor": "Run",
+    "Python.rounding.executor": "Run",
     "Python.salary.executor": "Run",
     "Python.seize_the_fire.executor": "Debug",
     "Python.sequence_2k+1.executor": "Run",
+    "Python.smallest_of_three_numbers.executor": "Run",
     "Python.sorting_hat.executor": "Debug",
     "Python.special_numbers.executor": "Run",
     "Python.strange_zoo.executor": "Run",
@@ -310,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790778220367</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Commit!">
+      <option name="closed" value="true" />
+      <created>1791119465788</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1791119465788</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
