@@ -60,6 +60,7 @@
     "Python.even_powers_of_2.executor": "Run",
     "Python.excursion_calculator.executor": "Run",
     "Python.excursion_sale.executor": "Run",
+    "Python.factorial_division.executor": "Run",
     "Python.faro_shuffle.executor": "Run",
     "Python.fishing_boat.executor": "Run",
     "Python.grades.executor": "Run",
@@ -77,6 +78,7 @@
     "Python.multiples_list.executor": "Run",
     "Python.mutate_strings.executor": "Run",
     "Python.next_happy_year.executor": "Debug",
+    "Python.no_vowels.executor": "Run",
     "Python.num_numbers.executor": "Run",
     "Python.number_pyramid.executor": "Run",
     "Python.number_sequence.executor": "Run",
@@ -98,13 +100,16 @@
     "Python.sequence_2k+1.executor": "Run",
     "Python.smallest_of_three_numbers.executor": "Run",
     "Python.sorting_hat.executor": "Debug",
+    "Python.sorting_names.executor": "Run",
     "Python.special_numbers.executor": "Run",
     "Python.strange_zoo.executor": "Run",
     "Python.sum_of_chars.executor": "Run",
     "Python.sum_seconds.executor": "Run",
     "Python.survival_of_the_biggest.executor": "Run",
     "Python.tennis_ranklist.executor": "Debug",
+    "Python.the_office.executor": "Run",
     "Python.time_+_15_minutes.executor": "Run",
+    "Python.to_do_list.executor": "Run",
     "Python.toy_shop.executor": "Run",
     "Python.trade_commissions.executor": "Run",
     "Python.train_the_trainers.executor": "Run",
@@ -327,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791119465788</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Commit!">
+      <option name="closed" value="true" />
+      <created>1791314155021</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1791314155021</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
