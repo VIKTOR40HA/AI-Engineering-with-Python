@@ -46,6 +46,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.absolute_values.executor": "Run",
     "Python.account_balance.executor": "Run",
+    "Python.ascii_values.executor": "Run",
     "Python.char_to_string.executor": "Run",
     "Python.character_sequence.executor": "Run",
     "Python.characters_in_range.executor": "Run",
@@ -86,6 +87,7 @@
     "Python.number_sequence.executor": "Run",
     "Python.numbers_n...1.executor": "Run",
     "Python.odd_and_even_sum.executor": "Run",
+    "Python.odd_occurrences.executor": "Run",
     "Python.on_time_for_the_exam.executor": "Run",
     "Python.operations_between_numbers.executor": "Run",
     "Python.orders.executor": "Run",
@@ -105,6 +107,7 @@
     "Python.sorting_names.executor": "Run",
     "Python.special_numbers.executor": "Run",
     "Python.strange_zoo.executor": "Run",
+    "Python.students.executor": "Run",
     "Python.sum_of_chars.executor": "Run",
     "Python.sum_seconds.executor": "Run",
     "Python.survival_of_the_biggest.executor": "Run",
@@ -350,7 +353,23 @@
       <option name="project" value="LOCAL" />
       <updated>1791797929395</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Commit!">
+      <option name="closed" value="true" />
+      <created>1792050400240</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1792050400240</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Commit!">
+      <option name="closed" value="true" />
+      <created>1792050405513</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1792050405513</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,6 +481,11 @@
           <url>file://$PROJECT_DIR$/Python Fundamentals/Excersices/lists_advanced/decipher_this.py</url>
           <line>1</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Fundamentals/Labs/dictionaries/statistics.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
